@@ -9,4 +9,7 @@ The analysis serves to give business insights into whether the pandemic has perm
 
 ### Details
 Dataset: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/timeseries/j4mc/drsi
+
 The main analysis is conducted in "analysis.ipynb", a separate python script "data_preparation.py" is used to create the processed datasets ("data/train_processed.csv", "data/test_processed.csv", "data/pandemic_processed.csv") from the above original dataset.
+
+*All graphs used in the poster have the poster aesthetics, all graphs not used have default parameters.*
