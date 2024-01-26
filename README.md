@@ -8,8 +8,10 @@ Exploratory Data Analysis to determine the optimal model parameters is first con
 The analysis serves to give business insights into whether the pandemic has permanently affected the future of online retail or whether the surge in online retail will only be temporary, assisting businesses, policy makers, and stakeholders in their decisions.
 
 ### Details
-Dataset: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/timeseries/j4mc/drsi
+**Dataset:** https://www.ons.gov.uk/businessindustryandtrade/retailindustry/timeseries/j4mc/drsi
 
-The main analysis is conducted in "analysis.ipynb", a separate python script "data_preparation.py" is used to create the processed datasets ("data/train_processed.csv", "data/test_processed.csv", "data/pandemic_processed.csv") from the above original dataset.
+**Jupyter Notebooks and Python Scripts:** The main analysis is conducted in "analysis.ipynb", a separate python script "data_preparation.py" is used to create the processed datasets ("data/train_processed.csv", "data/test_processed.csv", "data/pandemic_processed.csv") from the above original dataset.
+
+**This project was a two-person project done for the Singapore Statistics Competition 2023, and won third place**
 
 *All graphs used in the poster have the poster aesthetics, all graphs not used have default parameters.*
