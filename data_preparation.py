@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta
-import pytz
 
 # Importing dataframe 
 df = pd.read_csv("data/raw_data.csv")
