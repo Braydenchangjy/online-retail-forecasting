@@ -1,5 +1,5 @@
 # The Fate of Online Retail Post-pandemic
-### An analysis of the effect of the COVID-19 interruption on the online retail rates in the UK
+**An analysis of the effect of the COVID-19 interruption on the online retail rates in the UK**
 
 The COVID-19 pandemic brought a surge in online retail rates (expressed as a percentage of total retail rates) globally due to lockdown restrictions forcing many consumers to go online. The question to be answered post-pandemic is whether this surge in online retail will be retained by consumers or whether they are opting to return to traditional retail methods. The project will focus on online retail data in the UK, aiming to create a counterfactual model of what online retail rates would have been like without the COVID-19 interruption for comparison with the actual online retail rates during the COVID-19 pandemic. 
 
